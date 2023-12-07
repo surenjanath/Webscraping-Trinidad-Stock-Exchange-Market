@@ -34,4 +34,4 @@ MIT
 > Twitter [@surenjanath](https://twitter.com/surenjanath)
 
 
-Updated see : https://github.com/surenjanath/TTSE-WEBSCRAPER(https://github.com/surenjanath/TTSE-WEBSCRAPER)
+Updated see : https://github.com/surenjanath/TTSE-WEBSCRAPER
